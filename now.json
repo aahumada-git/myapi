@@ -1,6 +1,5 @@
 {
 	"version": 2,
-    "name": "myapi",
     "routes": [
         { "src": "/api/(.*)", "dest": "/api/index.js"}
     ],
