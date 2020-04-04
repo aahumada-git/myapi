@@ -1,4 +1,3 @@
-.now
 node_modules/**/*
 .expo/*
 npm-debug.*
@@ -10,9 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-.env
+.now
+*.env
 
 # macOS
 .DS_Store
-.now
-.env
